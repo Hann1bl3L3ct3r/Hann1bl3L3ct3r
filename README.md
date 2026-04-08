@@ -2,7 +2,7 @@
 
 ## About Me
 
-Penetration tester and red team operator leading the offensive security team at **Obviam Security**. I specialize in Active Directory attack chains, BYOVD (Bring Your Own Vulnerable Driver) research, vulnerability discovery, and offensive tooling development. My work spans authorized red team engagements, exploit development, and security research - all conducted under signed contracts in lab or approved assessment environments.
+Penetration tester and red team operator leading the offensive security team at **Obviam**. I specialize in Active Directory attack chains, BYOVD (Bring Your Own Vulnerable Driver) research, vulnerability discovery, and offensive tooling development. My work spans authorized red team engagements, exploit development, and security research - all conducted under signed contracts in lab or approved assessment environments.
 
 I hold a degree in **Cybersecurity and Information Assurance** along with offensive certifications including **OSCP**, **OSWP**, and **CEH**, as well as defensive certifications from SonicWall, Fortinet, BlackBerry, SentinelOne, and Extreme Networks.
 
