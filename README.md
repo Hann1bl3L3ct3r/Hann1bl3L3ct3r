@@ -21,3 +21,7 @@ I hold a degree in **Cybersecurity and Information Assurance** along with offens
 
 - **GitHub:** [@Hann1bl3L3ct3r](https://github.com/Hann1bl3L3ct3r)
 - **Company:** [Obviam](https://obviam.com)
+
+## Articles
+
+- **Medium** [@cihananthony](https://medium.com/@cihananthony)
