@@ -16,6 +16,7 @@ I hold a degree in **Cybersecurity and Information Assurance** along with offens
 | **CVE-2026-6203** | User Registration & Membership for WordPress (≤ 5.1.4) | Unauthenticated Open Redirect (CWE-601) | **6.1 Medium** | [Wordfence](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/user-registration/user-registration-membership-514-unauthenticated-open-redirect-via-redirect-to-on-logout-parameter) |
 | **CVE-2026-4406** | Gravity Forms for WordPress (≤ 2.9.30) | Reflected Cross-Site Scripting (CWE-79) | **4.7 Medium** | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-4406) |
 | **CVE-2026-11349** | Modern Events Calendar (Lite & Pro) (< 7.34.0) | Unauthenticated SQL Injection (CWE-89) | **8.6 High** | [WPScan](https://wpscan.com/vulnerability/572229cb-8a09-406d-8623-7d6b553bfdde/) |
+| **CVE-2026-12142** | NEX-Forms (<= 9.2.2) | Unauthenticated Stored Cross-Site Scripting (CWE-79) | **7.2 High** | [Wordfence](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/nex-forms-express-wp-form-builder/nex-forms-922-unauthenticated-stored-cross-site-scripting-via-name-array-parameter) |
 
 ---
 
